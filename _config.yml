@@ -7,7 +7,7 @@ first_name: Joanna
 middle_name:
 last_name: Wiaterek
 email: joanna.wiaterek@aidpolicy.org
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: Hi, this is Asia.  > # the ">" symbol means to ignore newlines until "footer_text:"
 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
