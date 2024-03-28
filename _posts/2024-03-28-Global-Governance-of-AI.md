@@ -22,11 +22,11 @@ There is an urgent need for a more widespread debate on the global implications 
 
 #### Problem
 
-The existing work on the impacts of AI automation or regulation is highly localised, predominantly referring to the so-called “Global North” countries (e.g. [Trammel and Korinek 2023] (https://philiptrammell.com/static/economic_growth_under_transformative_ai.pdf)). In fact, most of the “discussion about the consequences and regulation of AI is occurring among countries whose populations make up just 1.3 billion people” ([Muggah and Carvalho 2023](https://foreignpolicy.com/2023/05/29/ai-regulation-global-south-artificial-intelligence/)). What about the Global Majority?
+The existing work on the impacts of AI automation or regulation is highly localised, predominantly referring to the so-called “Global North” countries (e.g. [Trammel and Korinek 2023](https://philiptrammell.com/static/economic_growth_under_transformative_ai.pdf)). In fact, most of the “discussion about the consequences and regulation of AI is occurring among countries whose populations make up just 1.3 billion people” ([Muggah and Carvalho 2023](https://foreignpolicy.com/2023/05/29/ai-regulation-global-south-artificial-intelligence/)). What about the Global Majority?
 
 The implications of any major innovation are inescapably global and so the innovations in question require a global, collaborative approach.
 
-It is critical to expand the AI debate beyond the national concerns of the Global North and to address the world-scale questions concerning issues including the risks from AI in widening global income inequality, the potential challenges of AI to the current political structures, or perpetuation of existing global injustices and structural imbalances through the AI systems ([Batabyal 2023] (https://www.soas.ac.uk/study/blog/how-can-ai-better-serve-people-global-south)).
+It is critical to expand the AI debate beyond the national concerns of the Global North and to address the world-scale questions concerning issues including the risks from AI in widening global income inequality, the potential challenges of AI to the current political structures, or perpetuation of existing global injustices and structural imbalances through the AI systems ([Batabyal 2023](https://www.soas.ac.uk/study/blog/how-can-ai-better-serve-people-global-south)).
 The world as a whole needs a more cooperative design of AI governance (e.g., [Adan 2023](https://www.governance.ai/post/the-case-for-including-the-global-south-in-ai-governance-conversations), [Obia 2023](https://blogs.lse.ac.uk/medialse/2023/06/13/what-can-african-countries-do-to-regulate-artificial-intelligence/)), and ensuring favourable effects from AI on global welfare, especially for the world’s poorest.
 
 <hr>
