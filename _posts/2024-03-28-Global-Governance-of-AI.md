@@ -41,7 +41,7 @@ The world as a whole needs a more cooperative design of AI governance (e.g., [Ad
   a) What could multi-stakeholder and benefit-sharing regulations look like?
   b) When will the window of opportunity close?
   c) Questions of data abuse?
-  d) How to avoid AI being merely another instrument of the Global North domination, but include the Global South in the “AI lifecycle” ([Moon 2023[(https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.13648))?
+  d) How to avoid AI being merely another instrument of the Global North domination, but include the Global South in the “AI lifecycle” ([Moon 2023](https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.13648))?
 5. How to achieve AI equity if the world is still suffering from unequal access to previous innovations, such as electricity or the Internet?
   a) How will different countries benefit unequally from AI? What implications will this inequality have?
   b) How to avoid further concentration of wealth and knowledge? What implications could such concentrated accumulation of technologies have   on world poverty and inequality?
