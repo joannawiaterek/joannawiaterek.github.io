@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Global Governance of AI
+title: "Global Governance of AI: preliminary questions"
 date: 2024-03-28 16:40:16
-description: A list of key questions I collected between October 2023 and January 2024.
+description: A list of key questions I collected between October 2023 and January 2024 after I decided to explore AI4D and global governance of AI.
 tags: AI
 ---
 
@@ -12,7 +12,7 @@ Last update: 17/1/2024
 
 Most discussions surrounding AI are relatively recent and still highly neglected. Yet, when it comes to the questions related to AI and the Global South, especially, AI-related implications on the global economic and political order, the space seems even more overlooked.
 
-"There are four key aspects to distinguish:"
+There are four key aspects to distinguish:
 1. Design of AI systems (e.g. Who is included in designing and regulating the AI models (compute, data, expertise)?)
 2. Bridging the AI divide (e.g. How to advance technological capabilities and independence among the Global South actors?)
 3. Global Governance of AI (e.g. What should inclusive institutions look like to ensure benefit-sharing?)
