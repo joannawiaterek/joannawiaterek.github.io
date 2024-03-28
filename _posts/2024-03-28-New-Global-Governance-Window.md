@@ -106,7 +106,7 @@ Nicholls, E. (2018). Studying the state: a Global South perspective. Third World
 
 North, D. (1990). Institutions, Institutional Change and Economic Performance. Cambridge: Cambridge University Press.
 
-Obia, V. (2023). What can African countries do to regulate artificial intelligence? [online] London School of Economics and Political Science. Available at: https://blogs.lse.ac.uk/medialse/2023/06/13/what-can-african-countries-do-to-regulate-artificial-intelligence/ [Accessed 16 Jan. 2024].
+Obia, V. (2023). What can African countries do to regulate artificial intelligence? [online] London School of Economics and Political Science.
 
 Ocampo, J. (2016). Global Governance and Development. Oxford: Oxford University Press.
 
