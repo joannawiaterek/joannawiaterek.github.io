@@ -3,8 +3,8 @@ layout: post
 title: "New Global Governance Window: how the Global South can join the AI roundtable now."
 date: 2024-03-28 16:40:16
 description: An introductory essay I wrote for my Social Policy in Development course at LSE. I draw on Sen's and Kingdon's theories to explore why exclusive AI governance may have detrimental effects on the global poor.
-tags: international-development
-categories: AI
+tags: AI
+categories: international-development
 ---
 
 #### Abstract
