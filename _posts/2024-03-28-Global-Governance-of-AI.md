@@ -45,7 +45,7 @@ The world as a whole needs a more cooperative design of AI governance (e.g., [Ad
    d) How to avoid AI being merely another instrument of the Global North domination, but include the Global South in the “AI lifecycle” ([Moon 2023](https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.13648))?
 4. How to achieve AI equity if the world is still suffering from unequal access to previous innovations, such as electricity or the Internet?
    a) How will different countries benefit unequally from AI? What implications will this inequality have?
-   b) How to avoid further concentration of wealth and knowledge? What implications could such concentrated accumulation of technologies have   on world poverty and inequality?
+   b) How to avoid further concentration of wealth and knowledge? What implications could such concentrated accumulation of technologies have on world poverty and inequality?
    c) Are there any possibilities for less-developed countries to benefit from not being limited by existing infrastructure / regulations / etc.? (e.g. bypassing centralised fossil fuel-powered electric grids entirely by some countries and going straight to distributed renewable-based electric grids)
 
 ##### AI & Eradication of Global Poverty
