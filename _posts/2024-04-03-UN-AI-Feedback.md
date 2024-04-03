@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Feedback to the UN Interim Report: Governing AI for Humanity"
-date: 2024-04-15 16:40:16
+date: 2024-04-03 16:40:16
 description: Part of my exploration of the Global South AI governance landscape.
 tags: AI
 categories: international-development
