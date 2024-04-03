@@ -28,11 +28,11 @@ In February, we began conducting a [shallow review](https://docs.google.com/spre
 
 So far, there seems to be nothing “new” in the interim report. The current AI governance space is saturated beyond the nine initiatives mentioned on pages 14-15 and it would be worthwhile to acknowledge their diverse priorities within official UN recommendations. E.g. Mauritius has set an advanced goal to harness AI to enhance biotechnology and develop its Ocean Economy. Actual inclusivity should accommodate the different approaches to AI enhancement and regulation.
 
-##### Be more ambitious with goals and timelines.
+##### Be more ambitious with goals and timelines!
 
 Most countries under our review have ambitions of being global leaders or regional AI hubs. E.g. Rwanda aims to become a global innovator for responsible and inclusive AI while India aims to leverage AI for inclusive growth, climate leadership and serving as a “garage” for other developing economies. UN recommendations should match the ambitions of the national AI strategies and outline a productive AI governance ecosystem that will support the Global South countries in leveraging their comparative advantages relative to their desired types of AI.
 
-##### Respond to the specific challenges faced by Global South countries in harnessing AI
+##### Respond to the specific challenges faced by Global South countries in harnessing AI!
 
 Developing countries face resource constraints and lack the necessary infrastructure to harness their full AI potential. Some examples include:
 
