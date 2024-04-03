@@ -13,6 +13,7 @@ Last update: 17/1/2024
 Most discussions surrounding AI are relatively recent and still highly neglected. Yet, when it comes to the questions related to AI and the Global South, especially, AI-related implications on the global economic and political order, the space seems even more overlooked.
 
 There are four key aspects to distinguish:
+
 1. Design of AI systems (e.g. Who is included in designing and regulating the AI models (compute, data, expertise)?)
 2. Bridging the AI divide (e.g. How to advance technological capabilities and independence among the Global South actors?)
 3. Global Governance of AI (e.g. What should inclusive institutions look like to ensure benefit-sharing?)
@@ -38,14 +39,14 @@ The world as a whole needs a more cooperative design of AI governance (e.g., [Ad
 1. What aspects of AI could specific Global South actors become leaders in? What makes them suitable leaders? How to seize that leadership? Long-term effects of that leadership?
 2. What are the unobvious, yet potentially highly effective South-South and North-South coalition in AI governance?
 3. How to ensure that Africa has at least a fair start to the AI-related opportunities for economic growth, increase in average welfare, and AI regulations?
-  a) What could multi-stakeholder and benefit-sharing regulations look like?
-  b) When will the window of opportunity close?
-  c) Questions of data abuse?
-  d) How to avoid AI being merely another instrument of the Global North domination, but include the Global South in the “AI lifecycle” ([Moon 2023](https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.13648))?
-5. How to achieve AI equity if the world is still suffering from unequal access to previous innovations, such as electricity or the Internet?
-  a) How will different countries benefit unequally from AI? What implications will this inequality have?
-  b) How to avoid further concentration of wealth and knowledge? What implications could such concentrated accumulation of technologies have   on world poverty and inequality?
-  c) Are there any possibilities for less-developed countries to benefit from not being limited by existing infrastructure / regulations / etc.? (e.g. bypassing centralised fossil fuel-powered electric grids entirely by some countries and going straight to distributed renewable-based electric grids)
+   a) What could multi-stakeholder and benefit-sharing regulations look like?
+   b) When will the window of opportunity close?
+   c) Questions of data abuse?
+   d) How to avoid AI being merely another instrument of the Global North domination, but include the Global South in the “AI lifecycle” ([Moon 2023](https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.13648))?
+4. How to achieve AI equity if the world is still suffering from unequal access to previous innovations, such as electricity or the Internet?
+   a) How will different countries benefit unequally from AI? What implications will this inequality have?
+   b) How to avoid further concentration of wealth and knowledge? What implications could such concentrated accumulation of technologies have   on world poverty and inequality?
+   c) Are there any possibilities for less-developed countries to benefit from not being limited by existing infrastructure / regulations / etc.? (e.g. bypassing centralised fossil fuel-powered electric grids entirely by some countries and going straight to distributed renewable-based electric grids)
 
 ##### AI & Eradication of Global Poverty
 
@@ -54,11 +55,11 @@ The world as a whole needs a more cooperative design of AI governance (e.g., [Ad
 2. How to bridge the global AI divide?
    a) What role can foreign aid play here?
    b) How to foster technological independence?
-3. What global inequalities can AI generate/exacerbate? 
+3. What global inequalities can AI generate/exacerbate?
    a) What structural inequalities will be exacerbated? What about the coupling of past, current and future inequalities?
 4. How to leverage the AI potential to eradicate extreme poverty and raise the bottom tail of the global income distribution to a fruitful living standard, simultaneously controlling the potential expansive inequality growth?
    a) What system/regulation would have to be in place to create a kind of global, social protection in order to ensure the poorest are not left behind?
-5. Is there an emerging role for the private sector to eradicate extreme poverty and raise the GDP of the Global South?	
+5. Is there an emerging role for the private sector to eradicate extreme poverty and raise the GDP of the Global South?
 6. Are the global poor going to have a good, flourishing life in a post-AI world?
    a) Will the global poor play any role in the critical inputs to AI systems (compute, data, talent, experts implementing algorithms)?
 7. What could a global social protection system look like to mitigate the AI-crises [e.g. wealth inequality, existential threats]?
@@ -67,31 +68,27 @@ The world as a whole needs a more cooperative design of AI governance (e.g., [Ad
 ##### Post-AI World Governance
 
 1. What new global governance structures does the world need / how to adapt the existing structures to the contemporary and future contexts?
-  a) The problem of old structures (e.g. World Bank, G7 summits, IMF) being inadequate to harness the emerging new global economy and technological age.
-  i) The risks of perpetuating the essentially undemocratic and unequal character of these structures into AI governance
-  b) The need for further creative destruction in the realm of intergovernmental institutions?
-  c) What compromises would this require from the dominant powers?
-  d) How to update international regulation?
-  e) How can more policy transfers, and learnings, be facilitated across the world?
-3. What should the strategic partnerships with/among the Global South actors look like to encourage local adoption of AI?
-4. What should the national AI strategies look like in the Global South?
+   a) The problem of old structures (e.g. World Bank, G7 summits, IMF) being inadequate to harness the emerging new global economy and technological age.
+   i) The risks of perpetuating the essentially undemocratic and unequal character of these structures into AI governance
+   b) The need for further creative destruction in the realm of intergovernmental institutions?
+   c) What compromises would this require from the dominant powers?
+   d) How to update international regulation?
+   e) How can more policy transfers, and learnings, be facilitated across the world?
+2. What should the strategic partnerships with/among the Global South actors look like to encourage local adoption of AI?
+3. What should the national AI strategies look like in the Global South?
 
-
-##### Post-AI World 
+##### Post-AI World
 
 1. Impacts of AI on civil wars?
 2. What will post-AGI states look like?
    a) What will states need to survive?
    b) In what ways will the nation-state framework change?
-   i) How can the increasing wealth and political power of the private sector undermine states’ sovereignty, monopoly on the use of       violence, legitimacy, and role in service provision?
+   i) How can the increasing wealth and political power of the private sector undermine states’ sovereignty, monopoly on the use of violence, legitimacy, and role in service provision?
    ii) In what sense can AI-companies acquire state-like features?
-   iii) How to increase the agility of nation-states / other governance structures to change according to the new environment and ideas at   relatively low cost?
+   iii) How to increase the agility of nation-states / other governance structures to change according to the new environment and ideas at relatively low cost?
    iv) Questions about legitimacy transfers: from whom to whom?
 3. How will societies value individuals once labour is automated?
 4. What effects will automatisation have on human mental health?
 5. How could the unprecedented AI revolution exacerbate the centre-periphery power dynamics in global economics and politics?
 
 Big thanks to Herbie and Rudolf for their help and support with this exploration!
-
-
-
