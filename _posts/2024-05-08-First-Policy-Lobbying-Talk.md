@@ -20,4 +20,4 @@ On 1st May I gave a short pitch at the Newspeak House in London about why policy
 10. Policy work is great for career capital and learning about the decision-making ecosystem. It has helped me update my theory of change.
 11. I recommend [Kingdon’s](https://www.goodreads.com/book/show/48573.Agendas_Alternatives_and_Public_Policies) work on policy-making.
 
-I really appreciate the preparation time, full of reflection about my work and lessons learnt!
+I really appreciated the preparation time, full of reflection about my work and lessons learnt!
