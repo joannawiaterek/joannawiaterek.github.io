@@ -7,6 +7,7 @@ label: international-development
 ---
 
 On 1st May I gave a short pitch at the Newspeak House in London about why policy might be a high-impact career path, my experience from working at a foreign aid policy non-profit (~starting a think tank out of nothing!; in the UK) and I also shared some personal reflections. I thought I’d write down dome things from it:
+
 1. I really believe in the power of policy. I think that policy can advance virtually every cause. However, I also think that it cannot advance all causes with equal efficiency at all times. Some policies are easier to change than others due to factors like political support and traction, policy windows or connections.
 2. I haven’t considered foreign aid policy until September 2022 when I went to a conference that changed my life. I first listened to Jan-Willem’s talk from [Training for Good](https://www.trainingforgood.com/) on why you should work in policy. And it all made sense to me. My skillset matched some of the described roles and I generally felt super excited about it. A few hours later, I met one of the co-founders, and here we are!
 3. As a young policy lobbying organisation, the key question to ask was about our comparative advantage: region, thematic focus, campaign methods, etc. I think we’re quite good at the culture of learning and evaluation, which is especially important at the beginning. We’re also quite agile and creative. If you’re a new organisation, you got to find smart avenues for getting things done.
@@ -19,4 +20,4 @@ On 1st May I gave a short pitch at the Newspeak House in London about why policy
 10. Policy work is great for career capital and learning about the decision-making ecosystem. It has helped me update my theory of change.
 11. I recommend [Kingdon’s](https://www.goodreads.com/book/show/48573.Agendas_Alternatives_and_Public_Policies) work on policy-making.
 
-I was super stressed before the event because I didn’t think I had anything relevant to say really, but now, I really appreciate the preparation time as it made me reflect about my work and lessons learnt! 
+I was super stressed before the event because I didn’t think I had anything relevant to say really, but now, I really appreciate the preparation time as it made me reflect about my work and lessons learnt!
