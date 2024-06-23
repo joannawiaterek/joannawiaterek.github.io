@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Being more entrepreneurial"
-date: 2024-06-23 21:40:16
+date: 2024-06-22 21:40:16
 description: A brief note on a prompt that a friend asked me over the weekend.
 tags: Christianity
 ---
