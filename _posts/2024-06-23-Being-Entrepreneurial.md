@@ -12,10 +12,10 @@ At first, I thought I'd have to think a long time about this, but then something
 
 Entrepreneurial, brave and joyful.
 
-I wish we said yes to projects and new opportunities more often.
-I wish we created these opportunities ourselves in the first place.
-I wish we were more of problem-solvers and risk-takers.
-I wish we were leaders in our communities and workplaces.
+1. I wish we said yes to projects and new opportunities more often.
+2. I wish we created these opportunities ourselves in the first place.
+3. I wish we were more of problem-solvers and risk-takers.
+4. I wish we were leaders in our communities and workplaces.
 
 I think the answer seemed obvious to me because this is in fact something I wish I was more like myself (working on this!).
 
