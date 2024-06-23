@@ -23,12 +23,12 @@ I think there is something beautiful about the intersection of having firm found
 
 And I really hope that this community of Christians for Impact that we are building is a safe space to do this: a space where we feel the support of people around us, so that we can take those risks; so that we can say that difficult yes to new projects; so that we can be creative and discuss all ideas, including those that are crazy, unrealistic or simply bad, with people who are on the same wavelength and will challenge us further.
 
-Ultimately, working on the big issues that our world is facing is a common task and we can all contribute our own bit, but we can't solve it all on our own. Being in a community like this, and being empowered by a community like this, is also understanding that we are a team: each having different roles, yet united by a shared purpose. 
+Ultimately, working on the big issues that our world is facing is a common task and we can all contribute our own bit, but we can't solve it all on our own. Being in a community like this, and being empowered by a community like this, is also understanding that we are a team: each having different roles, yet united by a shared purpose.
 
 Lastly, we should always remember to remain humble, but humbleness and entrepreneurship don't have to be mutually exclusive. I think there can be something really powerful about practicing them alongside each other.
 
 Given the vagueness of this note, I wanted to give examples of some entrepreneurial things I had in mind:
-•	setting up new high-impact initiatives to address neglected issues
-•	deciding to (radically) increase our monthly giving and shift towards much more frugal lifestyle
-•	writing blogs, newsletters
-•	making (nerdy but fun) impact-oriented things to our everyday life (e.g. carbon offsetting, creating apps for e.g. measuring our energy use).
+1. setting up new high-impact initiatives to address neglected issues
+2. deciding to (radically) increase our monthly giving and shift towards much more frugal lifestyle
+3. writing blogs, newsletters
+4. making (nerdy but fun) impact-oriented things to our everyday life (e.g. carbon offsetting, creating apps for e.g. measuring our energy use).
