@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Being entrepreneurial"
+title: "Being more entrepreneurial"
 date: 2024-06-23 21:40:16
 description: A brief note on a prompt that a friend asked me over the weekend.
 tags: Christianity
@@ -8,7 +8,7 @@ tags: Christianity
 
 Just wanted to write a brief note on a prompt that a friend asked me over the weekend: 'What do you wish people in the [Christians for Impact](https://linktr.ee/effectivealtruismforchristians) community did more of?'
 
-At first, I thought I'd have to think a long time about this, but then something pretty obvious came up to my mind: I simply wish we were all more entrepreneurial.
+At first, I thought I'd have to think a long time about this, but then something pretty obvious came up to my mind: I simply wish we were all much more entrepreneurial.
 
 Entrepreneurial, brave and joyful.
 
@@ -28,6 +28,7 @@ Ultimately, working on the big issues that our world is facing is a common task 
 Lastly, we should always remember to remain humble, but humbleness and entrepreneurship don't have to be mutually exclusive. I think there can be something really powerful about practicing them alongside each other.
 
 Given the vagueness of this note, I wanted to give examples of some entrepreneurial things I had in mind:
+
 1. setting up new high-impact initiatives to address neglected issues
 2. deciding to (radically) increase our monthly giving and shift towards much more frugal lifestyle
 3. writing blogs, newsletters
