@@ -2,7 +2,7 @@
 layout: post
 title: "Being entrepreneurial"
 date: 2024-06-23 21:40:16
-description: A brief note on a prompt that a friend asked me over the weekend: What do you wish people in the Christians for Impact community did more of?.
+description: A brief note on a prompt that a friend asked me over the weekend.
 tags: Christianity
 ---
 
