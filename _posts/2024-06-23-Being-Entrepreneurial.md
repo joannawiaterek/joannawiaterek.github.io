@@ -1,4 +1,11 @@
-Just wanted to write a quick note on a prompt that a friend asked me over the weekend: “What do you wish people in the Christians for Impact community did more of?”
+---
+layout: post
+title: "Being entrepreneurial"
+date: 2024-06-23 21:40:16
+description: A brief note on a prompt that a friend asked me over the weekend: “What do you wish people in the Christians for Impact community did more of?”.
+tags: Christianity
+---
+Just wanted to write a brief note on a prompt that a friend asked me over the weekend: “What do you wish people in the [Christians for Impact](https://linktr.ee/effectivealtruismforchristians) community did more of?”
 
 At first, I thought I'd have to think a long time about this, but then something pretty obvious came up to my mind: I simply wish we were all more entrepreneurial.
 
