@@ -3,7 +3,8 @@ layout: post
 title: "Midway checkpoint: a month into my Master’s dissertation; a month to go."
 date: 2024-07-17 14:40:16
 description: An update on my Master's dissertation, another project to up-skill in global governance of AI.
-tags: AI, international-development
+tags: AI 
+label: international-development
 ---
 
 ### I have a topic!
