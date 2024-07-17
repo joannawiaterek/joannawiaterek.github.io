@@ -44,7 +44,7 @@ Some ideas I want to explore:
 - The ‘human-like intelligence’ of AI, protection from AI risks/biases/... and global commons.
 - End-beneficiaries of AI and ‘inclusivity’ in the design of AI governance.
 
-### I have some ideas!
+### I am loving it!
 
 I am so loving this time of research, thinking, making links between topics and having awesome chats with people about the diss! (The process is great, the writing is scary!)
 
