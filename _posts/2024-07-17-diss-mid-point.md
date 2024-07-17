@@ -7,27 +7,33 @@ tags: AI, international-development
 ---
 
 ### I have a topic!
-I was very undecided about my dissertation topic. I was overwhelmed by the number of potential questions I was interested in, and their scope (see ‘Global Governance of AI: preliminary questions’). I struggled to be specific; I didn’t know much about AI, so I was quite stressed. But… 
+I was very undecided about my dissertation topic. I was overwhelmed by the number of potential questions I was interested in, and their scope (see ‘Global Governance of AI: preliminary questions’). I struggled to be specific; I didn’t know much about AI, so I was quite stressed. But…
 
-On the 2nd of June, I finally came up with a research question and a topic: I am doing a (discourse) analysis of the ‘Interim Report: Governing AI for Humanity’ to critique the UN's efforts and capabilities to ‘inclusively’ govern AI. This draws on two of my previous projects I have done this year. 
+On the 2nd of June, I finally came up with a research question and a topic: I am doing a (discourse) analysis of the ‘Interim Report: Governing AI for Humanity’ to critique the UN's efforts and capabilities to ‘inclusively’ govern AI. This draws on two of my previous projects I have done this year.
 
 While deciding on a question seemed a little bit like an epiphany, it was in fact a culmination of months of reading and chatting to friends.
 
 What helped me to narrow down the question?
+
 1. Previous projects.
+   
   - [my first essay on AI](https://joannawiaterek.github.io/blog/2024/New-Global-Governance-Window/) (which I would write differently now, but this was part of the learning process!)
   - [research group on the Global South & AI governance](https://joannawiaterek.github.io/blog/2024/UN-AI-Feedback/) (again, an imperfect part of a learning process, yet one that allowed me to meet amazing people working on AI and research thinks I might draw on in my diss)
-3. Resources.
+2. Resources.
+   
   - [The Africa Hour Podcast](https://afripoli.org/podcasts/)
   - [‘AI Needs You’ by V. Harding (2024)](https://press.princeton.edu/books/hardcover/9780691244877/ai-needs-you)
-5. Chats at the EAG conference in London (May/June), especially with [Observatorio de Riesgos Catastróficos Globales](https://www.orcg.info/).
-6. Friends. Conversations we have had, have been of immense value (and fun!), thank you!
+
+3. Chats at the EAG conference in London (May/June), especially with [Observatorio de Riesgos Catastróficos Globales](https://www.orcg.info/).
+4. Friends. Conversations we have had, have been of immense value (and fun!), thank you!
+   
   - Rudolf, I owe you my life (again)! Thank you for your continuous feedback and the excitement to discuss (often crazy or unsound) ideas!
   - Jerome, thank you for all the challenging thoughts and encouragement!
   - Ketana, thank you for being an inspiration!
 
 ### I have some ideas!
 Some ideas I want to explore:
+
 - AI governance is a social and public policy issue, as well as a developmental issue.
 - What is ‘inclusivity’? Of whom and to do what?
 - How ‘inclusive’ has the report writing been so far?
