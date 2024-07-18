@@ -19,7 +19,7 @@ What helped me to narrow down the question?
 
 1. Previous projects.
 - [my first essay on AI](https://joannawiaterek.github.io/blog/2024/New-Global-Governance-Window/) (which I would write differently now, but this was part of the learning process!)
-- [research group on the Global South & AI governance](https://joannawiaterek.github.io/blog/2024/UN-AI-Feedback/) (again, an imperfect part of a learning process, yet one that allowed me to meet amazing people working on AI and research thinks I might draw on in my diss)
+- [research group on the Global South & AI governance](https://joannawiaterek.github.io/blog/2024/UN-AI-Feedback/) (again, an imperfect part of a learning process, yet one that allowed me to meet amazing people working on AI and research things I might draw on in my diss)
 
 2. Resources.
 - [The Africa Hour Podcast](https://afripoli.org/podcasts/)
@@ -27,7 +27,7 @@ What helped me to narrow down the question?
 
 3. Chats at the EAG conference in London (May/June), especially with [Observatorio de Riesgos Catastróficos Globales](https://www.orcg.info/).
 
-4. Friends. Conversations we have had, have been of immense value (and fun!), thank you!
+4. Friends. Our conversations have been of immense value (and fun!), thank you!
 - Rudolf, I owe you my life (again)! Thank you for your continuous feedback and the excitement to discuss (often crazy or unsound) ideas!
 - Jerome, thank you for all the challenging thoughts and encouragement!
 - Ketana, thank you for being an inspiration!
