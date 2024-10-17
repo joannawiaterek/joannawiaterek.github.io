@@ -28,9 +28,6 @@ What helped me to narrow down the question?
 3. Chats at the EAG conference in London (May/June), especially with [Observatorio de Riesgos Catastróficos Globales](https://www.orcg.info/).
 
 4. Friends. Our conversations have been of immense value (and fun!), thank you!
-- Rudolf, I owe you my life (again)! Thank you for your continuous feedback and the excitement to discuss (often crazy or unsound) ideas!
-- Jerome, thank you for all the challenging thoughts and encouragement!
-- Ketana, thank you for being an inspiration!
 
 ### I have some ideas!
 
