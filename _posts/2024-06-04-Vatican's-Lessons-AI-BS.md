@@ -46,14 +46,14 @@ Moreover, the Vatican has already made significant attempts to engage with AI et
 
 I selected three headlines to discuss some aspects of the Catholic Social Teaching that could help us ground both intra- and inter-State AI benefit-sharing principles:
 
-##The Human Person Must Come Before Profit
+## The Human Person Must Come Before Profit
 
 Catholic thought has long warned against economic systems that reduce people to instruments of production. In Rerum Novarum ([1891](https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html)), Pope Leo XIII condemned the exploitation of workers under industrial capitalism, asserting the primacy of the human person over the pursuit of profit.
 Applied to the context of AI, this principle challenges us to design systems that enhance human dignity. It urges us to ask: Are AI innovations serving the well-being of individuals, or merely driving economic efficiency? For example, technology transfers, as part of non-monetary benefit-sharing, should not be measured by GDP contribution alone, but by how these tools improve daily lives and life satisfaction. More concretely, this also suggests that future AI benefit-sharing agreements should include an obligation for companies profiting from global data flows to compensate the communities whose data they have extracted.
 
 In policy terms: profit-sharing mechanisms, ethical deployment standards, and labour protections for those displaced or augmented by AI are moral imperatives—not afterthoughts.
 
-##Preferential Option for the Poor
+## Preferential Option for the Poor
 
 A cornerstone of Catholic ethics, the “preferential option for the poor” asserts that social and political decisions should prioritise those most marginalised. This is not about charity, but long-term, structural justice—shaping systems so that those historically excluded are placed at the centre and gain agency over their destiny.
 
@@ -61,7 +61,7 @@ In the AI context, this principle demands more than access: it requires delibera
 
 Global AI governance mechanisms can reflect this teaching by embedding equity at their core—as a starting point.
 
-##Truth in Service of the Common Good
+## Truth in Service of the Common Good
 
 In a world increasingly shaped by algorithmic persuasion and performative policy, Catholic Social Teaching’s emphasis on truth is a necessary corrective. AI systems—especially generative ones—threaten to flood public discourse with falsehoods, deepen epistemic divides, and erode trust.
 
@@ -71,13 +71,16 @@ Beyond fact-checking, this is a call for AI that serves what is deeply real and 
 
 
 While rooted in religious tradition, these principles resonate far beyond church walls—echoing values found in existing treaties. Here are some examples (emphases mine):
-*Declaration on Social Progress and Development (1969, UN General Assembly)
-  *Article 13(a): _Equitable_ sharing of scientific and technological advances by developed and developing countries, and a steady increase in the use of science and technology for the benefit of the social development of society.
-*Declaration on the Use of Scientific and Technological Progress (1975, UN General Assembly)
-  *Aware that the _transfer of science and technology is one of the principal ways of accelerating the economic development of developing countries_,
-  *Article 3: All States shall take measures to ensure that scientific and technological achievements _satisfy the material and spiritual needs of all sectors of the population_.
-*Rio Declaration on Environment and Development (1992, UN Earth Summit)
-  *Principle 6: The special situation and needs of _developing countries_, particularly the least developed and those most environmentally vulnerable, _shall be given special priority_.
+
+- Declaration on Social Progress and Development (1969, UN General Assembly)
+ - Article 13(a): _Equitable_ sharing of scientific and technological advances by developed and developing countries, and a steady increase in the use of science and technology for the benefit of the social development of society.
+
+- Declaration on the Use of Scientific and Technological Progress (1975, UN General Assembly)
+  - Aware that the _transfer of science and technology is one of the principal ways of accelerating the economic development of developing countries_,
+  - Article 3: All States shall take measures to ensure that scientific and technological achievements _satisfy the material and spiritual needs of all sectors of the population.
+
+- Rio Declaration on Environment and Development (1992, UN Earth Summit)
+ - Principle 6: The special situation and needs of _developing countries_, particularly the least developed and those most environmentally vulnerable, _shall be given special priority_.
 
 Both the Vatican and existing human rights and development treaties provide solid foundations for setting priorities in benefit-sharing. Our challenge lies in transcending the complex geopolitical and economic tensions unique to AI and applying these guiding principles to this new layer of global governance. 
 
