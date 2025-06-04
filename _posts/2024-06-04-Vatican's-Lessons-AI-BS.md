@@ -42,7 +42,7 @@ While there are existing ethical AI frameworks, such as the Final Report by the 
 
 Why the Vatican? Because its centuries-long expertise lies in humanity and community. Catholic Social Teaching, an area of Catholic doctrine focused on aspects such as human dignity, social justice, and wealth distribution,  seems highly relevant for AI benefit-sharing. These teachings, whether you see them as theological or philosophical, can offer insights for navigating the design of AI systems that serve the global common good. There is also something about the Vatican’s view of the intrinsic value in human beings and our lives that is lacking from state- or private-actors’ agendas, whose incentives are subject to the fluctuating geopolitical winds.
 
-Moreover, the Vatican has already made significant attempts to engage with AI ethics. Alongside Pope Francis’ writings and the new Pope Leo XIV’s immediate reference, upon his election, to AI as a grand challenge of this century, the Rome Call for AI Ethics ([2020](https://www.romecall.org/wp-content/uploads/2022/03/RomeCall_Paper_web.pdf)) brought together signatories from international organizations, governments, institutions and technology companies, and established *“a  sense of shared responsibility [...] in an effort to create a future in which digital innovation and technological progress grant man his centrality.”* The participants committed to AI development that *“serves every person and humanity as a whole; that respects the dignity of the human person, so that every individual can benefit from the advances of technology; and that does not have as its sole goal greater profit or the gradual replacement of people in the workplace.”*
+Moreover, the Vatican has already made significant attempts to engage with AI ethics. Alongside Pope Francis’ writings and the new Pope Leo XIV’s immediate reference, upon his election, to AI as a grand challenge of this century, the Rome Call for AI Ethics ([2020](https://www.romecall.org/wp-content/uploads/2022/03/RomeCall_Paper_web.pdf)) brought together signatories from international organizations, governments, institutions and technology companies, and established _“a  sense of shared responsibility [...] in an effort to create a future in which digital innovation and technological progress grant man his centrality.”_ The participants committed to AI development that _“serves every person and humanity as a whole; that respects the dignity of the human person, so that every individual can benefit from the advances of technology; and that does not have as its sole goal greater profit or the gradual replacement of people in the workplace.”_
 
 I selected three headlines to discuss some aspects of the Catholic Social Teaching that could help us ground both intra- and inter-State AI benefit-sharing principles:
 
@@ -72,12 +72,12 @@ Beyond fact-checking, this is a call for AI that serves what is deeply real and 
 
 While rooted in religious tradition, these principles resonate far beyond church walls—echoing values found in existing treaties. Here are some examples (emphases mine):
 *Declaration on Social Progress and Development (1969, UN General Assembly)
-  *Article 13(a): *Equitable* sharing of scientific and technological advances by developed and developing countries, and a steady increase in the use of science and technology for the benefit of the social development of society.
+  *Article 13(a): _Equitable_ sharing of scientific and technological advances by developed and developing countries, and a steady increase in the use of science and technology for the benefit of the social development of society.
 *Declaration on the Use of Scientific and Technological Progress (1975, UN General Assembly)
-  *Aware that the *transfer of science and technology is one of the principal ways of accelerating the economic development of developing countries*,
-  *Article 3: All States shall take measures to ensure that scientific and technological achievements *satisfy the material and spiritual needs of all sectors of the population*.
+  *Aware that the _transfer of science and technology is one of the principal ways of accelerating the economic development of developing countries_,
+  *Article 3: All States shall take measures to ensure that scientific and technological achievements _satisfy the material and spiritual needs of all sectors of the population_.
 *Rio Declaration on Environment and Development (1992, UN Earth Summit)
-  *Principle 6: The special situation and needs of *developing countries*, particularly the least developed and those most environmentally vulnerable, *shall be given special priority*.
+  *Principle 6: The special situation and needs of _developing countries_, particularly the least developed and those most environmentally vulnerable, _shall be given special priority_.
 
 Both the Vatican and existing human rights and development treaties provide solid foundations for setting priorities in benefit-sharing. Our challenge lies in transcending the complex geopolitical and economic tensions unique to AI and applying these guiding principles to this new layer of global governance. 
 
