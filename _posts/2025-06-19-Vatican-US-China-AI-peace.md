@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Could the Vatican mediate US-China AI peace?"
-date: 2024-06-19 16:40:16
+date: 2025-06-19 16:40:16
 description: A reflection on the Vatican's peace-making engagements and potential action scenarios towards descalating US-China AI tensions.
 tags: [AI, Christianity]
 ---
