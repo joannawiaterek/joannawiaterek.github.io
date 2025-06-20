@@ -2,7 +2,7 @@
 layout: post
 title: "Could the Vatican mediate US-China AI peace?"
 date: 2025-06-19 16:40:16
-description: A reflection on the Vatican's peace-making engagements and potential action scenarios towards descalating US-China AI tensions.
+description: A reflection on the Vatican's peace-making engagements and potential action scenarios towards de-escalating US-China AI tensions.
 tags: [AI, Christianity]
 ---
 
@@ -73,7 +73,7 @@ I now sketch out three examples of how the Vatican, specifically via the Pontifi
   - The influence may still be limited to academia, with uncertain trickle-down into national security or AI labs circles.
 
 **Scenario 3**: Pope Leo XIV welcomes the US and Chinese officials for AI dialogues to negotiate an agreement.
-- *Intended output*: A binding international agreement on the descalation of the AI arms race.
+- *Intended output*: A binding international agreement on the de-escalation of the AI arms race.
 - *Precedent/parallel*: Pope John Paul II's moral interventions during the Cold War (e.g. in [Poland](https://www.osvnews.com/st-john-paul-ii-drives-cause-of-freedom-for-humankind-20-years-after-death-say-world-leaders/), or in nuclear disarmament [advocacy](https://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1982/documents/hf_jp-ii_mes_19820607_disarmo-onu.html)). The Vatican’s involvement in negotiating the [1984](https://www.vaticannews.va/en/pope/news/2024-11/pope-dialogue-prevented-war-between-chile-and-argentina.html) Treaty of Peace and Freidnship between Chile and Argentina, and the [2014](https://www.theguardian.com/world/2014/dec/17/us-cuba-pope-franicis-key-roles) Cuba–US rapprochement.
 - *Strengths*:
   - High-level of information-sharing between the national officials from both the US and China.
