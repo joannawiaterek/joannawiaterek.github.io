@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “'The Shoes of the Fisherman' (1968) and Morality in AI Leadership"
+title: 'The Shoes of the Fisherman' (1968) and Morality in AI Leadership
 date: 2025-06-23 6:40:16
 description: Some brief weekend thoughts…
 tags: [AI, Christianity]
