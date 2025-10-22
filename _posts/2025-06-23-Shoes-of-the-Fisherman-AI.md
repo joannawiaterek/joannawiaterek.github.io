@@ -28,7 +28,7 @@ His actions starkly contrast with hoarding AI resources (e.g. compute), power co
 
 #### Humility | AI Risks are Real
 
-Every day, I walk through the city and wonder what our daily lives will feel like in 2, 5 or 10 years amid the vast AI [transformations](https://www.nber.org/reporter/2024number4/economics-transformative-ai). What [jobs](https://futurism.com/anthropic-ai-destroy-jobs) will we have, if any? How will we [value](https://intelligence-curse.ai/) ourselves, our role and contribution to society? Will we have the peace of mind to cherish our families? 
+Every day, I walk through the city and wonder what our daily lives will feel like in 2, 5 or 10 years amid the vast AI [transformations](https://www.nber.org/reporter/2024number4/economics-transformative-ai). What [jobs](https://futurism.com/anthropic-ai-destroy-jobs) will we have, if any? How will we [value](https://intelligence-curse.ai/) ourselves, our role and contribution to society? Will we have the peace of mind to cherish our families?
 
 Lakota showed that leadership isn’t about certainty, but about conscience. He didn’t know immediately what to do about mitigating the global nuclear conflict, but he knew his core responsibilities and guiding principles. Today, policy-makers must accept the burden of leadership and navigate the potential AI threats amid differing priorities and complex technical [capabilities](https://www.gov.uk/government/publications/international-ai-safety-report-2025). The stakes are high: misjudging the severity of AI risks may cause all of humanity to suffer. And unfortunately, we are in no way prepared for the scale of disruption that many experts [warn](https://www.nytimes.com/2023/05/30/technology/ai-threat-warning.html) is coming.
 
