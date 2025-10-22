@@ -9,6 +9,7 @@ tags: AI, Christianity
 Last update: 4/6/2025
 
 ## Introduction: AI vs Humanity–Who serves whom?
+
 Designing artificial intelligence (AI) so that it serves all of humanity–not just a few amongst us–is the defining challenge of this decade. Today’s innovation optimisation and AI race-dynamics, which result in the centralisation of AI resources and profits, compromises the universal human right to a share in scientific advancement and its benefits (Article  27; United Nations, [1948](https://www.un.org/en/about-us/universal-declaration-of-human-rights)). 
 
 Amid these complex power-and-profit dynamics, the absence of a shared moral compass and prioritisation frameworks in international AI governance can lead to choices that further benefit the powerful and neglect urgent global needs. This reflection explores how Vatican-inspired moral principles may guide us through these policy challenges.
@@ -40,9 +41,9 @@ While there are existing ethical AI frameworks, such as the Final Report by the 
 
 ## The Vatican’s Lessons for AI Benefit-Sharing
 
-Why the Vatican? Because its centuries-long expertise lies in humanity and community. Catholic Social Teaching, an area of Catholic doctrine focused on aspects such as human dignity, social justice, and wealth distribution,  seems highly relevant for AI benefit-sharing. These teachings, whether you see them as theological or philosophical, can offer insights for navigating the design of AI systems that serve the global common good. There is also something about the Vatican’s view of the intrinsic value in human beings and our lives that is lacking from state- or private-actors’ agendas, whose incentives are subject to the fluctuating geopolitical winds.
+Why the Vatican? Because its centuries-long expertise lies in humanity and community. Catholic Social Teaching, an area of Catholic doctrine focused on aspects such as human dignity, social justice, and wealth distribution, seems highly relevant for AI benefit-sharing. These teachings, whether you see them as theological or philosophical, can offer insights for navigating the design of AI systems that serve the global common good. There is also something about the Vatican’s view of the intrinsic value in human beings and our lives that is lacking from state- or private-actors’ agendas, whose incentives are subject to the fluctuating geopolitical winds.
 
-Moreover, the Vatican has already made significant attempts to engage with AI ethics. Alongside Pope Francis’ writings and the new Pope Leo XIV’s immediate reference, upon his election, to AI as a grand challenge of this century, the Rome Call for AI Ethics ([2020](https://www.romecall.org/wp-content/uploads/2022/03/RomeCall_Paper_web.pdf)) brought together signatories from international organizations, governments, institutions and technology companies, and established _“a  sense of shared responsibility [...] in an effort to create a future in which digital innovation and technological progress grant man his centrality.”_ The participants committed to AI development that _“serves every person and humanity as a whole; that respects the dignity of the human person, so that every individual can benefit from the advances of technology; and that does not have as its sole goal greater profit or the gradual replacement of people in the workplace.”_
+Moreover, the Vatican has already made significant attempts to engage with AI ethics. Alongside Pope Francis’ writings and the new Pope Leo XIV’s immediate reference, upon his election, to AI as a grand challenge of this century, the Rome Call for AI Ethics ([2020](https://www.romecall.org/wp-content/uploads/2022/03/RomeCall_Paper_web.pdf)) brought together signatories from international organizations, governments, institutions and technology companies, and established _“a sense of shared responsibility [...] in an effort to create a future in which digital innovation and technological progress grant man his centrality.”_ The participants committed to AI development that _“serves every person and humanity as a whole; that respects the dignity of the human person, so that every individual can benefit from the advances of technology; and that does not have as its sole goal greater profit or the gradual replacement of people in the workplace.”_
 
 I selected three headlines to discuss some aspects of the Catholic Social Teaching that could help us ground both intra- and inter-State AI benefit-sharing principles:
 
@@ -68,7 +69,6 @@ In a world increasingly shaped by algorithmic persuasion and performative policy
 This principle reminds us that benefit-sharing must be grounded not only in economic redistribution but also in the defence of shared truths. We need governance frameworks that uphold transparency, accuracy, and integrity in AI models, such as those used in information systems or education.
 
 Beyond fact-checking, this is a call for AI that serves what is deeply real and enduring: human relationships, intergenerational responsibility, and our shared moral aspirations. We must resist the temptation to optimise for short-term engagement or superficial metrics, and instead build AI that contributes to what Pope Francis called “[integral human development](https://catholicecology.net/blog/pope-francis-what-integral-human-development).”
-
 
 While rooted in religious tradition, these principles resonate far beyond church walls—echoing values found in existing treaties. Here are some examples (emphases mine):
 
