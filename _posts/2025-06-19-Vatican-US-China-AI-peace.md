@@ -59,7 +59,7 @@ I now sketch out three examples of how the Vatican, specifically via the Pontifi
   - Low diplomatic stakes, yet potential for norm shaping among the US and Chinese AI academics and developers.
 - *Limitations*:
   - Limited influence on national AI policies, so outcomes may remain primarily symbolic or academic. 
-  - A one-off event which doesn’t maintain channels for US-China academic exchanges. 
+  - A one-off event which doesn’t maintain channels for US-China academic exchanges.
 
 **Scenario 2**: The Pontifical Academy of Science hosts a recurring bilateral forum (e.g. every 6 months) where leading AI scientists from the US and China exchange insights and forecasts to de-escalate mutual uncertainty and the potential of conflict.
 - *Intended output*: A sustained, trust-building channel where top US and Chinese researchers and technical advisors can regularly share AI forecasts, safety concerns, and governance developments.
