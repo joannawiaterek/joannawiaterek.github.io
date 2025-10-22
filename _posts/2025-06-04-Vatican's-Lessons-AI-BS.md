@@ -86,7 +86,7 @@ Both the Vatican and existing human rights and development treaties provide soli
 
 ## Moving Forward
 
-Moral reflections are prone to becoming romanticised debates lacking the world’s realism. It is implementation that is the hard part. But in moments of rapid change, such as AI development, we need ethical North Stars like the Vatican more than ever. Without them, policies risk being reactive and short-sighted. 
+Moral reflections are prone to becoming romanticised debates lacking the world’s realism. It is implementation that is the hard part. But in moments of rapid change, such as AI development, we need ethical North Stars like the Vatican more than ever. Without them, policies risk being reactive and short-sighted.
 
 There is a large literature from previous international benefit-sharing agreements and the Holy See’s archives on the fundamental ethical non-negotiables that, as we build the international AI governance ecosystem, we should keep closely in mind despite the fast-paced and almost overpowering speed of technological innovation in comparison to our human pace. It is we who should subordinate and harness AI, not the other way round.
 
