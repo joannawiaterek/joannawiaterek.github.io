@@ -10,7 +10,7 @@ Last update: 4/6/2025
 
 ## Introduction: AI vs Humanity–Who serves whom?
 
-Designing artificial intelligence (AI) so that it serves all of humanity–not just a few amongst us–is the defining challenge of this decade. Today’s innovation optimisation and AI race-dynamics, which result in the centralisation of AI resources and profits, compromises the universal human right to a share in scientific advancement and its benefits (Article  27; United Nations, [1948](https://www.un.org/en/about-us/universal-declaration-of-human-rights)). 
+Designing artificial intelligence (AI) so that it serves all of humanity–not just a few amongst us–is the defining challenge of this decade. Today’s innovation optimisation and AI race-dynamics, which result in the centralisation of AI resources and profits, compromises the universal human right to a share in scientific advancement and its benefits (Article 27; United Nations, [1948](https://www.un.org/en/about-us/universal-declaration-of-human-rights)).
 
 Amid these complex power-and-profit dynamics, the absence of a shared moral compass and prioritisation frameworks in international AI governance can lead to choices that further benefit the powerful and neglect urgent global needs. This reflection explores how Vatican-inspired moral principles may guide us through these policy challenges.
 
@@ -27,12 +27,12 @@ The international AI policy space lacks clear prioritisation of human-centred ou
 International AI benefit-sharing refers to efforts that foster international access to AI’s economic or broader societal benefits (Dennis et al., [2024](https://www.governance.ai/research-paper/options-and-motivations-for-international-ai-benefit-sharing)) and holds the potential to mitigate an array of challenges stemming from the current state of AI development. Through regulation and agreements, benefit-sharing could help us re-position AI in service to humanity, especially those historically left behind.
 
 International benefit-sharing won’t happen by default and requires a shared understanding of policy priorities. Currently, decisions around AI priorities are often shaped by competitive pressures, not moral commitments:
-* Frontier labs race toward AGI, incentivised more by investor pressure than by public benefit.
-* The US-China competition limits multilateral transparency and cooperation.
-* Basic deployment opportunities—for example, AI in climate forecasting or low-resource healthcare—are overlooked in favour of speculative future gains.
+- Frontier labs race toward AGI, incentivised more by investor pressure than by public benefit.
+- The US-China competition limits multilateral transparency and cooperation.
+- Basic deployment opportunities—for example, AI in climate forecasting or low-resource healthcare—are overlooked in favour of speculative future gains.
 
 This leads to a troubling inversion: technology dictates our agenda, instead of serving a shared vision of human flourishing. Without clear priorities, we risk optimising for technological ambition rather than human need.
- 
+
 On a personal level, amid claims regarding the whole of humanity – a noble, yet abstract notion behind which we can hide our selfish ambitions – I long to revisit my own heart and reflect on what values I bring into AI policy. It’s easy to speak of benefiting all people while neglecting the needs right in front of us—a friend, a colleague, a family member. If we can’t honour the dignity of individuals in our daily lives, how can we claim to act on behalf of the world?
 
 Pope Francis called for “a renewed wisdom of heart” (Antiqua et Nova, [2024](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html)). This stands in stark contrast to the technocratic language of AI development evoking efficiency and the deterministic nature of algorithms. As policy-makers, researchers or leaders, we face serious responsibilities regarding shaping AI to the benefit of all–those we know and those whom we’ll never know. Personally, I wish we preserved our values of mutual care and respect and the intrinsic value of human life as we design our futures.
@@ -73,16 +73,18 @@ Beyond fact-checking, this is a call for AI that serves what is deeply real and 
 While rooted in religious tradition, these principles resonate far beyond church walls—echoing values found in existing treaties. Here are some examples (emphases mine):
 
 - Declaration on Social Progress and Development (1969, UN General Assembly)
+
   - Article 13(a): _Equitable_ sharing of scientific and technological advances by developed and developing countries, and a steady increase in the use of science and technology for the benefit of the social development of society.
 
 - Declaration on the Use of Scientific and Technological Progress (1975, UN General Assembly)
+
   - Aware that the _transfer of science and technology is one of the principal ways of accelerating the economic development of developing countries_,
   - Article 3: All States shall take measures to ensure that scientific and technological achievements _satisfy the material and spiritual needs of all sectors of the population_.
 
 - Rio Declaration on Environment and Development (1992, UN Earth Summit)
   - Principle 6: The special situation and needs of _developing countries_, particularly the least developed and those most environmentally vulnerable, _shall be given special priority_.
 
-Both the Vatican and existing human rights and development treaties provide solid foundations for setting priorities in benefit-sharing. Our challenge lies in transcending the complex geopolitical and economic tensions unique to AI and applying these guiding principles to this new layer of global governance. 
+Both the Vatican and existing human rights and development treaties provide solid foundations for setting priorities in benefit-sharing. Our challenge lies in transcending the complex geopolitical and economic tensions unique to AI and applying these guiding principles to this new layer of global governance.
 
 ## Moving Forward
 
@@ -93,9 +95,10 @@ There is a large literature from previous international benefit-sharing agreemen
 As international AI governance takes further shape and the possibility emerges for a global convention on fair and equitable AI benefit-sharing, it is the existing moral teachings, such as those of the Vatican, that will help us construct this new layer of international law. Unfortunately, we may not have much time to do the thinking when the moment comes, so I encourage you to consider deeply today: What future do you want for our world?
 
 ## Further Readings
-[Rerum Novarum (May 15, 1891)](https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html) 
+
+[Rerum Novarum (May 15, 1891)](https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html)
 [Caritas in veritate (June 29, 2009)](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html)
 [LVII World Day of Peace 2024 - Artificial Intelligence and Peace](https://www.vatican.va/content/francesco/en/messages/peace/documents/20231208-messaggio-57giornatamondiale-pace2024.html)
 [Dilexit nos (24 October 2024)](https://www.vatican.va/content/francesco/en/encyclicals/documents/20241024-enciclica-dilexit-nos.html)
-[Antiqua et nova. Note on the Relationship Between Artificial Intelligence and Human Intelligence (28 January 2025)](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html) 
+[Antiqua et nova. Note on the Relationship Between Artificial Intelligence and Human Intelligence (28 January 2025)](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html)
 [Compendium of the Social Doctrine of the Church](https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html#INTRODUCTION)
