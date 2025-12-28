@@ -7,7 +7,7 @@ first_name: Joanna
 middle_name:
 last_name: Wiaterek
 email: joanna.wiaterek@gmail.com
-description: Hi, this is Asia. I am a social anthropologist interested in global development, global governance of AI and benefit-sharing. I have lots of questions about effective aid, innovation and inequality, and the impact of AI on the global order. I did my undergrad at Cambridge in Human, Social and Political Sciences. Recently, I have finished my Masters at LSE where I wrote my dissertation on the inclusivity of the UN AI governance. Currently, I am co-founding the [Equiano Institute](https://www.equiano.institute/) where we research societal impacts of AI with a particulat focus on developing countries. In a different life I would probably be a theatre actress. I love sports, cooking and learning foreign languages. Get in touch!> # the ">" symbol means to ignore newlines until "footer_text:"
+description: Hi, this is Asia. I build the missing bridges in international AI access governance and impact investing. I currently co-direct the [Centre for AI Security and Access](https://centreforaisecurityandaccess.substack.com). I also think a lot about the role of the Vatican in AI governance and peace-making, ensuring flourishing and meaningful future for all. In a different life, I would probably be a theatre actress as I that’s where I grew up. In my free time, I love hosting dinners, going on adventures and running.> # the ">" symbol means to ignore newlines until "footer_text:"
 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
