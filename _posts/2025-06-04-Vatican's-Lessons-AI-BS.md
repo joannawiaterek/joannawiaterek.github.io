@@ -27,6 +27,7 @@ The international AI policy space lacks clear prioritisation of human-centred ou
 International AI benefit-sharing refers to efforts that foster international access to AI’s economic or broader societal benefits (Dennis et al., [2024](https://www.governance.ai/research-paper/options-and-motivations-for-international-ai-benefit-sharing)) and holds the potential to mitigate an array of challenges stemming from the current state of AI development. Through regulation and agreements, benefit-sharing could help us re-position AI in service to humanity, especially those historically left behind.
 
 International benefit-sharing won’t happen by default and requires a shared understanding of policy priorities. Currently, decisions around AI priorities are often shaped by competitive pressures, not moral commitments:
+
 - Frontier labs race toward AGI, incentivised more by investor pressure than by public benefit.
 - The US-China competition limits multilateral transparency and cooperation.
 - Basic deployment opportunities—for example, AI in climate forecasting or low-resource healthcare—are overlooked in favour of speculative future gains.
