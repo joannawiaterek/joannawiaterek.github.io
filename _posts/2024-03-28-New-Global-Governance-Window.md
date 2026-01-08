@@ -71,7 +71,7 @@ Departing from the relationship between governing structures and development cap
 
 Adib-Moghaddam , A. (2023). Is Artificial Intelligence Racist? The Ethics of AI and the Future of Humanity. London: Bloomsbury Publishing.
 
-Biden, J. (2023). Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. [online] The White House. Available at: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/ [Accessed 16 Jan. 2024].
+Biden, J. (2023). Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. [online] The White House. Available at: https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence [Accessed 8 Jan. 2026].
 
 Chatham House (2021). Reflections on building more inclusive global governance. [online] Chatham House. Available at: https://www.chathamhouse.org/2021/04/reflections-building-more-inclusive-global-governance [Accessed 16 Jan. 2024].
 
