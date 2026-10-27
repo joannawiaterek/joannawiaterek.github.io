@@ -80,39 +80,23 @@ a:hover { color: var(--navy); }
 .pagehead p { margin: 0; max-width: 40rem; color: var(--on-navy-muted); font-size: 1.1rem; }
  
 /* ---------- Home hero ---------- */
- 
+
 .hero {
-  display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr);
-  gap: 3rem 5rem; align-items: end; padding-top: 2.5rem;
+  display: grid; grid-template-columns: minmax(0, 36rem) auto;
+  justify-content: center; align-items: center; gap: 2rem 4.5rem;
+  padding-block: 2.5rem 3.5rem;
 }
- 
-.hero-text { padding-bottom: 4.5rem; }
-.hero-text h1 {
-  font-family: var(--display); font-weight: 500; color: #fff;
-  font-size: clamp(3rem, 7vw, 5.2rem); line-height: 1; margin: 0 0 1.2rem;
-}
-.hero-text p { margin: 0 0 1rem; max-width: 34rem; }
+.hero-text p { margin: 0 0 1rem; }
+.hero-text p:last-child { margin-bottom: 0; }
 .hero-text .lead {
   font-family: var(--display); font-size: clamp(1.55rem, 2.6vw, 2.15rem);
-  line-height: 1.25; margin-bottom: 1.6rem; max-width: 30rem;
+  line-height: 1.25; margin-bottom: 1.4rem;
 }
- 
-/* The photo sits in an arch: a stage opening, and a church window. */
-.arch { position: relative; justify-self: end; width: min(100%, 22rem); aspect-ratio: 3 / 4; }
-.arch::before {
-  content: ""; position: absolute; inset: 0;
-  border: 2px solid var(--gold); border-bottom: 0; border-radius: 999px 999px 0 0;
-  transform: translate(1.25rem, -1.25rem);
+.photo {
+  width: 12rem; height: 12rem; border-radius: 50%;
+  overflow: hidden; background: var(--navy-2);
 }
-.arch .frame {
-  position: absolute; inset: 0; overflow: hidden;
-  border-radius: 999px 999px 0 0; background: var(--navy-2);
-}
-.arch .mono {
-  position: absolute; inset: 0; display: grid; place-items: center;
-  font-family: var(--display); font-size: 5rem; color: var(--gold);
-}
-.arch img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
+.photo img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 25%; display: block; }
  
 /* ---------- Lists ---------- */
  
@@ -205,9 +189,8 @@ a:hover { color: var(--navy); }
 /* ---------- Small screens ---------- */
  
 @media (max-width: 52rem) {
-  .hero { grid-template-columns: 1fr; gap: 2rem; }
-  .hero-text { padding-bottom: 0; }
-  .arch { justify-self: start; width: min(78%, 16rem); }
+  .hero { grid-template-columns: minmax(0, 1fr); gap: 1.75rem; padding-block: 2rem 2.5rem; }
+  .photo { order: -1; justify-self: center; width: 9.5rem; height: 9.5rem; }
   .latest { grid-template-columns: 1fr; padding-block: 3rem 3.5rem; }
   .year-group { grid-template-columns: 1fr; gap: 0.8rem; }
   .year-group > h2 { position: static; font-size: 2rem; }
