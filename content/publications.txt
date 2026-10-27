@@ -10,46 +10,74 @@
 #   link:     optional. Makes the title clickable.
 
 ---
+title: Draft Articles on the Safe Development and Diffusion of Artificial Intelligence
+authors: José Villalobos, and others
+venue: Future of Life Institute
+date: 2026-06
+link: https://global-governance.ai/treaty/
+
+---
+title: A Closer Look at AI-Driven Redistribution by Anthropic and OpenAI
+authors: Joanna Wiaterek and Sumaya Nur Adan
+venue: Centre for AI Security and Access, Substack
+date: 2026-06
+link: https://centreforaisecurityandaccess.substack.com/p/a-closer-look-at-ai-driven-redistribution
+
+---
+title: The Case for Early-Stage Catalytic Funding in Africa AI Safety
+authors: Joanna Wiaterek and Sumaya Nur Adan
+venue: Centre for AI Security and Access, Substack
+date: 2026-02
+link: https://centreforaisecurityandaccess.substack.com/p/the-case-for-early-stage-catalytic
+
+---
 title: What does the US AI strategy mean for Africa?
 authors: Joanna Wiaterek and Sumaya Nur Adan
 venue: Centre for AI Security and Access, Substack
 date: 2025-12
+link: https://centreforaisecurityandaccess.substack.com/p/what-does-the-us-ai-strategy-mean
 
 ---
 title: Advancing Safe and Beneficial AI Adoption in Global Majority Countries
 authors: Sumaya Nur Adan and Joanna Wiaterek
-venue: Oxford AI Governance Initiative, blog
+venue: Oxford AI Governance Initiative
 date: 2025-12
+link: https://aigi.ox.ac.uk/blog-post/advancing-safe-and-beneficial-ai-adoption-in-global-majority-countries/
 
 ---
 title: AI Benefit-Sharing Framework: Balancing Access and Safety
 authors: Sumaya Adan, Joanna Wiaterek, and others
 venue: Oxford AI Governance Initiative, Future of Life Institute
 date: 2025-12
+link: https://aigi.ox.ac.uk/publications/ai-benefit-sharing-framework-balancing-access-and-safety/
 
 ---
 title: AI Safety and Security Can Enable Innovation in Global Majority Countries
 authors: Joanna Wiaterek, Jared Perlo, and Sumaya Nur Adan
-venue: Brookings Institution (and a poster at AIES 2025)
+venue: Brookings Institution
 date: 2025-09
+link: https://www.brookings.edu/articles/ai-safety-and-security-can-enable-innovation-in-global-majority-countries/
 
 ---
 title: Toward an African Agenda for AI Safety
 authors: Samuel Segun, Rachel Adams, and others
 venue: arXiv
 date: 2025-08
+link: https://arxiv.org/abs/2508.13179
 
 ---
 title: Building Regional Capacity for AI Safety and Security in Africa
 authors: Joanna Wiaterek, Cecil Abungu, and Chinasa T. Okolo
 venue: Brookings Institution
 date: 2025-05
+link: https://www.brookings.edu/articles/building-regional-capacity-for-ai-safety-and-security-in-africa/
 
 ---
 title: The Politics of AI Benefit-Sharing
 authors: Joanna Wiaterek and Jan Pieter Snoeij
 venue: Tech Policy Press
 date: 2025-04
+link: https://www.techpolicy.press/the-politics-of-ai-benefit-sharing/
 
 ---
 title: Strengthening African AI Safety: a Strategic Approach
@@ -65,7 +93,7 @@ date: 2025-02
 
 ---
 title: Through the Praxis Lens: A White Paper for Approaching the AI Lifecycle with Ethnographic Methods
-authors: Yung-Hsuan Wu, Nitya Kuthiala, Joanna Wiaterek, and 2 more authors
+authors: Yung-Hsuan Wu, Nitya Kuthiala, Joanna Wiaterek, and others
 venue: Participatory AI Research & Practice Symposium
 date: 2025-02
 
@@ -80,3 +108,4 @@ title: Restoring leadership on international development: Labour’s first 100 d
 authors: Arthur Baker, Joanna Wiaterek, and Mathias Bonde
 venue: New Diplomacy Project
 date: 2024-01
+link: https://www.newdiplomacy.uk/briefings/9ga8n19ndzhbfs196g78c7fuxro7dp
