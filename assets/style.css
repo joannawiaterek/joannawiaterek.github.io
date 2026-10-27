@@ -92,7 +92,7 @@ a:hover { color: var(--navy); }
 .hero-text p { margin: 0 0 1rem; max-width: none; }
 .hero-text p:last-child { margin-bottom: 0; }
 .photo {
-  width: 12rem; height: 12rem; border-radius: 50%;
+  width: 17rem; height: 17rem; border-radius: 50%;
   overflow: hidden; background: var(--navy-2);
 }
 .photo img {
@@ -196,7 +196,7 @@ a:hover { color: var(--navy); }
  
 @media (max-width: 52rem) {
   .hero { grid-template-columns: minmax(0, 1fr); gap: 1.75rem; padding-block: 2rem 2.5rem; }
-  .photo { order: -1; justify-self: center; width: 9.5rem; height: 9.5rem; }
+  .photo { order: -1; justify-self: center; width: 12rem; height: 12rem; }
   .latest { grid-template-columns: 1fr; padding-block: 3rem 3.5rem; }
   .year-group { grid-template-columns: 1fr; gap: 0.8rem; }
   .year-group > h2 { position: static; font-size: 2rem; }
