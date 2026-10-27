@@ -15,7 +15,7 @@
   --display: "Cormorant Garamond", Georgia, "Times New Roman", serif;
   --text: "Albert Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   --wrap: 68rem;
-  --link-on-dark: #8a3b12;
+  --link-on-dark: #b9cbc0;
 }
  
 *, *::before, *::after { box-sizing: border-box; }
