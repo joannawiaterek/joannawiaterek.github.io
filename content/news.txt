@@ -1,0 +1,32 @@
+# NEWS
+# To add an item: copy one block below (from "---" down to the line before the next "---"),
+# paste it at the end of the file and change the words. Order does not matter:
+# the website sorts everything by date, newest first.
+#
+#   date:   2026-03-05   (or only 2026-03 if you do not know the day)
+#   title:  required
+#   text:   optional, one line. A link looks like this: [label](https://example.com)
+#   link:   optional. Makes the title clickable.
+#
+# These first items are examples taken from your publications. Replace them freely.
+
+---
+date: 2026-01-18
+title: New essay: Vatican Request for Information on the State of AI
+text: Thoughts on how the Vatican could overcome information asymmetry and keep pace with AI's rapid development.
+link: post.html?p=vatican-ai-rfi
+
+---
+date: 2025-12
+title: What does the US AI strategy mean for Africa?
+text: Co-authored with Sumaya Nur Adan for the Centre for AI Security and Access Substack.
+
+---
+date: 2025-12
+title: AI Benefit-Sharing Framework: Balancing Access and Safety
+text: Published with the Oxford AI Governance Initiative and the Future of Life Institute.
+
+---
+date: 2025-09
+title: New at Brookings: AI Safety and Security Can Enable Innovation in Global Majority Countries
+text: Co-authored with Jared Perlo and Sumaya Nur Adan, with a poster at AIES 2025.

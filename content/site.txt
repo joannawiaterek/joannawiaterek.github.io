@@ -1,0 +1,8 @@
+# SITE DETAILS (used in the footer of every page)
+# Leave a line empty or delete it to hide that link.
+
+name: Joanna Wiaterek
+linkedin: https://www.linkedin.com/in/joanna-wiaterek-545726201
+x: https://twitter.com/joanna_wiaterek
+substack: https://centreforaisecurityandaccess.substack.com
+email:

@@ -1,0 +1,82 @@
+# PUBLICATIONS
+# To add one: copy a block below, paste it at the end and change the words.
+# The website sorts by date (newest first) and groups by year.
+# Your own name is shown in bold automatically.
+#
+#   title:    required
+#   authors:  e.g. Joanna Wiaterek and Sumaya Nur Adan
+#   venue:    where it was published
+#   date:     2025-12   (year and month; the day is optional)
+#   link:     optional. Makes the title clickable.
+
+---
+title: What does the US AI strategy mean for Africa?
+authors: Joanna Wiaterek and Sumaya Nur Adan
+venue: Centre for AI Security and Access, Substack
+date: 2025-12
+
+---
+title: Advancing Safe and Beneficial AI Adoption in Global Majority Countries
+authors: Sumaya Nur Adan and Joanna Wiaterek
+venue: Oxford AI Governance Initiative, blog
+date: 2025-12
+
+---
+title: AI Benefit-Sharing Framework: Balancing Access and Safety
+authors: Sumaya Adan, Joanna Wiaterek, and others
+venue: Oxford AI Governance Initiative, Future of Life Institute
+date: 2025-12
+
+---
+title: AI Safety and Security Can Enable Innovation in Global Majority Countries
+authors: Joanna Wiaterek, Jared Perlo, and Sumaya Nur Adan
+venue: Brookings Institution (and a poster at AIES 2025)
+date: 2025-09
+
+---
+title: Toward an African Agenda for AI Safety
+authors: Samuel Segun, Rachel Adams, and others
+venue: arXiv
+date: 2025-08
+
+---
+title: Building Regional Capacity for AI Safety and Security in Africa
+authors: Joanna Wiaterek, Cecil Abungu, and Chinasa T. Okolo
+venue: Brookings Institution
+date: 2025-05
+
+---
+title: The Politics of AI Benefit-Sharing
+authors: Joanna Wiaterek and Jan Pieter Snoeij
+venue: Tech Policy Press
+date: 2025-04
+
+---
+title: Strengthening African AI Safety: a Strategic Approach
+authors: Joanna Wiaterek and Jared Perlo
+venue: Global Southing Internet, Data and AI Studies Workshop; Oxford Internet Institute
+date: 2025-02
+
+---
+title: AI Diffusion Strategy Under Strain?
+authors: Rafael Andersson Lipcsey, Jonas Kgomo, and Joanna Wiaterek
+venue: Equiano Institute
+date: 2025-02
+
+---
+title: Through the Praxis Lens: A White Paper for Approaching the AI Lifecycle with Ethnographic Methods
+authors: Yung-Hsuan Wu, Nitya Kuthiala, Joanna Wiaterek, and 2 more authors
+venue: Participatory AI Research & Practice Symposium
+date: 2025-02
+
+---
+title: We need ethnographic AI safety studies
+authors: Joanna Wiaterek, Nitya Kuthiala, and Jonas Kgomo
+venue: Equiano Institute
+date: 2024-11
+
+---
+title: Restoring leadership on international development: Labour’s first 100 days
+authors: Arthur Baker, Joanna Wiaterek, and Mathias Bonde
+venue: New Diplomacy Project
+date: 2024-01

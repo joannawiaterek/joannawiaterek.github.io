@@ -1,0 +1,53 @@
+# BLOG
+# To add a post:
+#   1. Put your writing in a file inside content/posts/ (for example content/posts/my-new-post.md).
+#   2. Copy one block below, paste it at the end of this file and fill it in.
+#      The "slug" must match the file name, without ".md".
+#
+#   slug:     my-new-post          (lowercase letters, numbers and hyphens only)
+#   title:    required
+#   summary:  optional, one or two sentences shown in the list
+#   date:     2026-03-05
+#   minutes:  optional reading time. If you leave it out, it is estimated on the post page.
+#   tags:     optional, separated by commas
+#   link:     optional. Use it instead of "slug" if the post lives somewhere else (for example Substack).
+
+---
+slug: vatican-ai-rfi
+title: Vatican Request for Information on the State of AI
+summary: Thoughts on how the Vatican could overcome information asymmetry and keep pace with AI's rapid development.
+date: 2026-01-18
+minutes: 8
+tags: AI, Christianity
+
+---
+slug: shoes-of-the-fisherman
+title: The Shoes of the Fisherman (1968) and Morality in AI Leadership
+summary: Some brief weekend thoughts…
+date: 2025-06-23
+minutes: 5
+tags: AI, Christianity
+
+---
+slug: vatican-us-china-ai-peace
+title: Could the Vatican mediate US-China AI peace?
+summary: A reflection on the Vatican’s peace-making engagements and potential action scenarios towards de-escalating US-China AI tensions.
+date: 2025-06-19
+minutes: 12
+tags: AI, Christianity
+
+---
+slug: vatican-lessons-ai-benefit-sharing
+title: The Vatican’s Lessons for AI Benefit-Sharing
+summary: A reflection on the potential contributions of the Vatican’s teachings in helping us inform prioritisation in AI benefit-sharing.
+date: 2025-06-04
+minutes: 12
+tags: AI, Christianity
+
+---
+slug: new-global-governance-window
+title: New Global Governance Window: how the Global South can join the AI roundtable now.
+summary: An introductory essay I wrote for my Social Policy in Development course at LSE. I draw on Sen’s and Kingdon’s theories to explore why exclusive AI governance may have detrimental effects on the global poor.
+date: 2024-03-28
+minutes: 24
+tags: AI, international-development
