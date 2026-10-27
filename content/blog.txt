@@ -43,11 +43,3 @@ summary: A reflection on the potential contributions of the Vatican’s teaching
 date: 2025-06-04
 minutes: 12
 tags: AI, Christianity
-
----
-slug: new-global-governance-window
-title: New Global Governance Window: how the Global South can join the AI roundtable now.
-summary: An introductory essay I wrote for my Social Policy in Development course at LSE. I draw on Sen’s and Kingdon’s theories to explore why exclusive AI governance may have detrimental effects on the global poor.
-date: 2024-03-28
-minutes: 24
-tags: AI, international-development
