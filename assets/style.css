@@ -1,26 +1,26 @@
 /* Joanna Wiaterek: site styles.
    Colours and fonts are set once, in the block below. */
-
+ 
 :root {
-  --navy: #012641;
-  --navy-2: #0b3a5c;
-  --paper: #fafaf8;
-  --ink: #012641;
-  --muted: #506172;
-  --rule: #d8dde2;
-  --red: #890101;
-  --gold: #eebd61;
-  --on-navy: #f5f3ee;
-  --on-navy-muted: #b9c6d2;
+  --navy: #0f3d2e;
+  --navy-2: #1d5a45;
+  --paper: #faf9f6;
+  --ink: #0f3d2e;
+  --muted: #55645b;
+  --rule: #d9ded9;
+  --red: #8a3b12;
+  --gold: #faf9f6;
+  --on-navy: #f4f1e8;
+  --on-navy-muted: #b9cbc0;
   --display: "Cormorant Garamond", Georgia, "Times New Roman", serif;
   --text: "Albert Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   --wrap: 68rem;
 }
-
+ 
 *, *::before, *::after { box-sizing: border-box; }
-
+ 
 html { -webkit-text-size-adjust: 100%; }
-
+ 
 body {
   margin: 0;
   background: var(--paper);
@@ -30,39 +30,39 @@ body {
   line-height: 1.65;
   text-rendering: optimizeLegibility;
 }
-
+ 
 a { color: var(--red); text-underline-offset: 0.2em; text-decoration-thickness: 1px; }
 a:hover { color: var(--navy); }
-
+ 
 :focus-visible { outline: 2px solid var(--red); outline-offset: 3px; }
 .stage :focus-visible, .foot :focus-visible { outline-color: var(--gold); }
-
+ 
 .wrap { width: min(100% - 3rem, var(--wrap)); margin-inline: auto; }
-
+ 
 .skip {
   position: absolute; left: -999px; top: 0;
   background: var(--gold); color: var(--navy);
   padding: 0.6rem 1rem; z-index: 10;
 }
 .skip:focus { left: 1rem; top: 1rem; }
-
+ 
 /* ---------- Navy "stage": header, hero, page titles ---------- */
-
+ 
 .stage { background: var(--navy); color: var(--on-navy); }
 .stage a { color: var(--gold); }
 .stage a:hover { color: #fff; }
-
+ 
 .bar {
   display: flex; flex-wrap: wrap; align-items: baseline;
   justify-content: space-between; gap: 0.6rem 2rem;
   padding-block: 1.4rem;
 }
-
+ 
 .stage .brand {
   font-family: var(--display); font-weight: 600; font-size: 1.7rem;
   color: var(--on-navy); text-decoration: none; letter-spacing: 0.01em;
 }
-
+ 
 .nav { display: flex; flex-wrap: wrap; gap: 0.3rem 1.6rem; margin: 0; padding: 0; list-style: none; }
 .stage .nav a {
   color: var(--on-navy); text-decoration: none;
@@ -70,21 +70,21 @@ a:hover { color: var(--navy); }
 }
 .stage .nav a:hover { border-bottom-color: var(--on-navy-muted); }
 .stage .nav a[aria-current="page"] { border-bottom-color: var(--gold); }
-
+ 
 .pagehead { padding-block: 2rem 3.5rem; }
 .pagehead h1 {
   font-family: var(--display); font-weight: 500; color: #fff;
   font-size: clamp(2.6rem, 6vw, 4rem); line-height: 1.05; margin: 0 0 0.6rem;
 }
 .pagehead p { margin: 0; max-width: 40rem; color: var(--on-navy-muted); font-size: 1.1rem; }
-
+ 
 /* ---------- Home hero ---------- */
-
+ 
 .hero {
   display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr);
   gap: 3rem 5rem; align-items: end; padding-top: 2.5rem;
 }
-
+ 
 .hero-text { padding-bottom: 4.5rem; }
 .hero-text h1 {
   font-family: var(--display); font-weight: 500; color: #fff;
@@ -95,7 +95,7 @@ a:hover { color: var(--navy); }
   font-family: var(--display); font-size: clamp(1.55rem, 2.6vw, 2.15rem);
   line-height: 1.25; margin-bottom: 1.6rem; max-width: 30rem;
 }
-
+ 
 /* The photo sits in an arch: a stage opening, and a church window. */
 .arch { position: relative; justify-self: end; width: min(100%, 22rem); aspect-ratio: 3 / 4; }
 .arch::before {
@@ -112,9 +112,9 @@ a:hover { color: var(--navy); }
   font-family: var(--display); font-size: 5rem; color: var(--gold);
 }
 .arch img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
-
+ 
 /* ---------- Lists ---------- */
-
+ 
 .latest {
   display: grid; grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 3rem 5rem; padding-block: 4rem 5rem;
@@ -123,7 +123,7 @@ a:hover { color: var(--navy); }
   font-family: var(--display); font-weight: 600; margin: 0; line-height: 1.1;
 }
 .latest h2 { font-size: 2rem; margin-bottom: 1rem; }
-
+ 
 .rows { list-style: none; margin: 0; padding: 0; }
 .row {
   display: grid; grid-template-columns: 6.5rem minmax(0, 1fr);
@@ -139,12 +139,12 @@ a:hover { color: var(--navy); }
   display: -webkit-box; -webkit-line-clamp: 2; line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
 }
 .more { display: inline-block; margin-top: 1.2rem; font-weight: 500; }
-
+ 
 .section { padding-block: 3.5rem 5rem; }
-
+ 
 .year-group { display: grid; grid-template-columns: 7rem minmax(0, 1fr); gap: 1rem 1.5rem; margin-bottom: 3rem; }
 .year-group > h2 { font-size: 2.4rem; font-weight: 500; position: sticky; top: 1rem; align-self: start; }
-
+ 
 .entry { padding-block: 1.2rem; border-top: 1px solid var(--rule); }
 .entry:first-child { padding-top: 0; border-top: 0; }
 .entry p { margin: 0.3rem 0 0; }
@@ -153,17 +153,17 @@ a:hover { color: var(--navy); }
 .tags { margin-left: 1rem; }
 .tags a { color: var(--muted); }
 .tags a:hover { color: var(--red); }
-
+ 
 .filters { display: flex; flex-wrap: wrap; gap: 0.3rem 1.5rem; list-style: none; margin: 0 0 2.5rem; padding: 0; }
 .filters a { color: var(--muted); text-decoration: none; padding-block: 0.2rem; border-bottom: 2px solid transparent; }
 .filters a:hover { color: var(--red); }
 .filters a[aria-current="true"] { color: var(--ink); border-bottom-color: var(--gold); }
-
+ 
 .notice { color: var(--muted); }
 .notice small { display: block; font-size: 0.85rem; }
-
+ 
 /* ---------- A single blog post ---------- */
-
+ 
 .post { width: min(100% - 3rem, 42rem); margin-inline: auto; padding-block: 2.5rem 5rem; }
 .post .back { margin: 0 0 2rem; font-size: 0.95rem; }
 .post h1 {
@@ -171,7 +171,7 @@ a:hover { color: var(--navy); }
   font-size: clamp(2.3rem, 5.5vw, 3.4rem); margin: 0 0 0.8rem;
 }
 .post .meta { margin: 0 0 2.5rem; }
-
+ 
 .prose { font-size: 1.125rem; line-height: 1.75; }
 .prose p { margin: 0 0 1.25rem; }
 .prose h2 { font-family: var(--display); font-weight: 600; font-size: 1.95rem; line-height: 1.2; margin: 2.6rem 0 0.7rem; }
@@ -188,9 +188,9 @@ a:hover { color: var(--navy); }
 .prose pre { overflow-x: auto; background: #eef0f2; padding: 1rem; font-size: 0.95rem; }
 .prose table { display: block; overflow-x: auto; border-collapse: collapse; margin: 0 0 1.25rem; }
 .prose th, .prose td { border: 1px solid var(--rule); padding: 0.4rem 0.7rem; text-align: left; }
-
+ 
 /* ---------- Footer ---------- */
-
+ 
 .foot { background: var(--navy); color: var(--on-navy-muted); }
 .foot .wrap {
   display: flex; flex-wrap: wrap; justify-content: space-between;
@@ -200,9 +200,9 @@ a:hover { color: var(--navy); }
 .foot ul { display: flex; flex-wrap: wrap; gap: 0.3rem 1.4rem; list-style: none; margin: 0; padding: 0; }
 .foot a { color: var(--gold); }
 .foot a:hover { color: #fff; }
-
+ 
 /* ---------- Small screens ---------- */
-
+ 
 @media (max-width: 52rem) {
   .hero { grid-template-columns: 1fr; gap: 2rem; }
   .hero-text { padding-bottom: 0; }
