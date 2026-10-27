@@ -12,8 +12,8 @@
   --gold: #faf9f6;
   --on-navy: #f4f1e8;
   --on-navy-muted: #b9cbc0;
-  --display: "Cormorant Garamond", Georgia, "Times New Roman", serif;
-  --text: "Albert Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --display: "Marcellus", Georgia, "Times New Roman", serif;
+  --text: "Mulish", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   --wrap: 68rem;
   --link-on-dark: #b9cbc0;
 }
