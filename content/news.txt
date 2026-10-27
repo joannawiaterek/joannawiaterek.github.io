@@ -9,7 +9,7 @@
 #   link:   optional. Makes the title clickable.
 
 ---
-slug: 10-26-AI-Safety-PL-Talk
+slug: 10-26-talk
 date:   2026-10   
 title:  My talk at AI Safety Poland
 text:   See the slides and explore the Europe 2031 scenarios in Poland.
