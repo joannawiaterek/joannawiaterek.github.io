@@ -15,6 +15,7 @@
   --display: "Cormorant Garamond", Georgia, "Times New Roman", serif;
   --text: "Albert Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   --wrap: 68rem;
+  --link-on-dark: #8a3b12;
 }
  
 *, *::before, *::after { box-sizing: border-box; }
@@ -49,7 +50,7 @@ a:hover { color: var(--navy); }
 /* ---------- Navy "stage": header, hero, page titles ---------- */
  
 .stage { background: var(--navy); color: var(--on-navy); }
-.stage a { color: var(--gold); }
+.stage a { color: var(--link-on-dark); }
 .stage a:hover { color: #fff; }
  
 .bar {
@@ -198,7 +199,7 @@ a:hover { color: var(--navy); }
 }
 .foot p { margin: 0; }
 .foot ul { display: flex; flex-wrap: wrap; gap: 0.3rem 1.4rem; list-style: none; margin: 0; padding: 0; }
-.foot a { color: var(--gold); }
+.foot a { color: var(--link-on-dark); }
 .foot a:hover { color: #fff; }
  
 /* ---------- Small screens ---------- */
