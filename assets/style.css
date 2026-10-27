@@ -79,24 +79,30 @@ a:hover { color: var(--navy); }
 }
 .pagehead p { margin: 0; max-width: 40rem; color: var(--on-navy-muted); font-size: 1.1rem; }
  
-/* ---------- Home hero ---------- */
-
+/* ---------- Hero: bio next to a round photo ---------- */
 .hero {
-  display: grid; grid-template-columns: minmax(0, 36rem) auto;
-  justify-content: center; align-items: center; gap: 2rem 4.5rem;
-  padding-block: 2.5rem 3.5rem;
+  display: grid;
+  grid-template-columns: minmax(0, 34rem) auto;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem 4rem;
+  padding-block: 2.5rem 3rem;
 }
-.hero-text p { margin: 0 0 1rem; }
+.hero-text { padding: 0; }
+.hero-text p { margin: 0 0 1rem; max-width: none; }
 .hero-text p:last-child { margin-bottom: 0; }
-.hero-text .lead {
-  font-family: var(--display); font-size: clamp(1.55rem, 2.6vw, 2.15rem);
-  line-height: 1.25; margin-bottom: 1.4rem;
-}
 .photo {
   width: 12rem; height: 12rem; border-radius: 50%;
   overflow: hidden; background: var(--navy-2);
 }
-.photo img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 25%; display: block; }
+.photo img {
+  width: 100%; height: 100%; display: block;
+  object-fit: cover; object-position: 50% 25%; border-radius: 50%;
+}
+@media (max-width: 52rem) {
+  .hero { grid-template-columns: minmax(0, 1fr); gap: 1.5rem; padding-block: 2rem 2.5rem; }
+  .photo { order: -1; justify-self: center; width: 9.5rem; height: 9.5rem; }
+}
  
 /* ---------- Lists ---------- */
  
