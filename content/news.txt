@@ -9,7 +9,11 @@
 #   link:   optional. Makes the title clickable.
 
 ---
-slug: 10-26-talk
 date:   2026-10   
 title:  My talk at AI Safety Poland
-text:   See the slides and explore the Europe 2031 scenarios in Poland.
+text:   On 22nd October 2026, I gave a [webinar](https://lnkd.in/p/eC2BSPhU) on: "How can countries with no frontier AI secure themselves against its risks while accessing its benefits?" You can see the slides [here](https://docs.google.com/presentation/d/11XmOMV4g5HIg1PpjPSwKWQ0YBGVsYzqxfe41BX02tPs/edit?usp=sharing) and explore some of the [Europe 2031](https://europe2031.ai) scenarios adapted to the context of Poland.
+
+---
+date:   2026-09   
+title:  I ran my first half-marathon!
+text:   On 5th September 2026, I ran my first (night) half-marathon. Big thanks to my friend, Ewa, who suggested this crazy adventure :) 
