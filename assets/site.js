@@ -256,7 +256,7 @@
       var links = [];
       if (s.linkedin) links.push(["LinkedIn", s.linkedin]);
       if (s.x) links.push(["X", s.x]);
-      if (s.substack) links.push(["CASA Website", s.website]);
+      if (s.website) links.push(["CASA Website", s.website]);
       if (s.email) links.push(["Email", "mailto:" + s.email]);
       el.innerHTML = '<div class="wrap"><p>\u00a9 ' + year + " " + esc(s.name || "Joanna Wiaterek") + "</p>" +
         (links.length ? "<ul>" + links.map(function (l) {
