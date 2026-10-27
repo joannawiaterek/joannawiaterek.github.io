@@ -202,3 +202,12 @@ a:hover { color: var(--navy); }
   .year-group > h2 { position: static; font-size: 2rem; }
   .row { grid-template-columns: 1fr; }
 }
+
+/* ---------- Marcellus has one weight and no italic ---------- */
+.stage .brand,
+.pagehead h1,
+.latest h2, .year-group h2,
+.row h3, .entry h3,
+.post h1,
+.prose h2, .prose h3 { font-weight: 400; }
+.when { font-style: normal; }
