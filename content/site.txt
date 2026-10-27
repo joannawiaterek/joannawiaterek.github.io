@@ -4,5 +4,5 @@
 name: Joanna Wiaterek
 linkedin: https://www.linkedin.com/in/joanna-wiaterek-545726201
 x: https://twitter.com/joanna_wiaterek
-CASA Website: https://www.casa-ai.org
+website: https://www.casa-ai.org
 email: Joanna.wiaterek@gmail.com
