@@ -10,6 +10,13 @@
 #   link:     optional. Makes the title clickable.
 
 ---
+title: Who Can Evaluate AI Independently? A Framework for Analysing Evaluation Infrastructure
+authors: Sumaya Nur Adan, Joanna Wiaterek, and others
+venue: arXiv
+date: 2026-11
+link: https://arxiv.org/html/2611.08134
+
+---
 title: Draft Articles on the Safe Development and Diffusion of Artificial Intelligence
 authors: José Villalobos, and others
 venue: Future of Life Institute
