@@ -11,7 +11,7 @@
 ---
 date:   2026-10   
 title:  My talk at AI Safety Poland
-text:   On 22nd October 2026, I gave a [webinar](https://lnkd.in/p/eC2BSPhU) on: "How can countries with no frontier AI secure themselves against its risks while accessing its benefits?" You can see the slides [here](https://docs.google.com/presentation/d/11XmOMV4g5HIg1PpjPSwKWQ0YBGVsYzqxfe41BX02tPs/edit?usp=sharing) and explore some of the [Europe 2031](https://europe2031.ai) scenarios adapted to the context of Poland.
+text:   On 22nd October 2026, I gave a webinar ([video](https://www.youtube.com/watch?v=qLSm_a5FM6Y)) on: "How can countries with no frontier AI secure themselves against its risks while accessing its benefits?" You can see the slides [here](https://docs.google.com/presentation/d/11XmOMV4g5HIg1PpjPSwKWQ0YBGVsYzqxfe41BX02tPs/edit?usp=sharing) and explore some of the [Europe 2031](https://europe2031.ai) scenarios adapted to the context of Poland.
 
 ---
 date:   2026-09   
