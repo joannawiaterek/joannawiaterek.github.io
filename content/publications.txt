@@ -10,6 +10,13 @@
 #   link:     optional. Makes the title clickable.
 
 ---
+title: Funding Initiatives for Building AI Resilience
+authors: Joanna Wiaterek, Sumaya Nur Adan, and others
+venue: CASA
+date: 2026-11
+link: https://www.casa-ai.org/funding-ai-resilience-recommendations
+
+---
 title: Who Can Evaluate AI Independently? A Framework for Analysing Evaluation Infrastructure
 authors: Sumaya Nur Adan, Joanna Wiaterek, and others
 venue: arXiv
